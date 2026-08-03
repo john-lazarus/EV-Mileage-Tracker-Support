@@ -47,4 +47,4 @@ If the app's data practices change, this policy and the relevant app-store priva
 
 ## Contact
 
-For privacy questions, email [Ronnie.lazarus@gmail.com](mailto:Ronnie.lazarus@gmail.com). Do not include vehicle records or other sensitive information unless it is necessary to answer your request.
+For privacy questions, email [ronnie.lazarus.dev@gmail.com](mailto:ronnie.lazarus.dev@gmail.com). Do not include vehicle records or other sensitive information unless it is necessary to answer your request.
