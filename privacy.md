@@ -1,16 +1,18 @@
 # Privacy Policy
 
-**Effective date: August 3, 2026**
+**Effective date: August 30, 2026**
 
 EV Mileage Tracker is a vehicle record-keeping app. The app does not require an account and does not sell personal data.
 
 ## Data stored by the app
 
-Vehicle names, charging sessions, odometer readings, preferences, and calculated insights are stored locally on your device. EV Mileage Tracker does not upload this vehicle data to our servers and does not use a cloud database, analytics service, or crash-reporting service.
+Vehicle names, charging sessions, odometer readings, preferences, calculated insights, and documents you add to the Documents wallet are stored in the app's private storage on your device. EV Mileage Tracker does not upload this app data to our servers and does not use a cloud database, analytics service, or crash-reporting service.
 
-## Backups
+## Backups and transfers
 
-Backup export is optional and initiated by you. When you export a backup, you choose where it is saved or shared. The selected destination is governed by that service's privacy practices.
+Backup export is optional and initiated by you. A full backup can include your vehicle records, preferences, and Documents wallet files. On Android, you can protect a full backup with a password before choosing where it is saved or shared. An unencrypted export contains readable app data and documents. The destination you select is governed by that service's privacy practices.
+
+If Android backup or device transfer is enabled, Android may copy eligible app data, including Documents wallet files, through the backup service configured on your device. This process is controlled by Android and the selected backup provider, not by our servers.
 
 ## Advertising on Android
 
@@ -29,11 +31,11 @@ For more information about Google's handling of advertising data, see [Google's 
 
 ## Tracking
 
-EV Mileage Tracker does not use your locally stored vehicle records for cross-app or cross-website tracking. Advertising data handled by Google is governed by your consent choices, Android settings, Google's policies, and applicable law.
+EV Mileage Tracker does not use your locally stored app data for cross-app or cross-website tracking. Advertising data handled by Google is governed by your consent choices, Android settings, Google's policies, and applicable law.
 
 ## Retention and deletion
 
-You control the vehicle records stored in the app. You can delete individual vehicles and their records in the app. Removing the app also removes its local data unless you previously exported a backup.
+You control the vehicle records and documents stored in the app. You can delete records and Documents wallet files in the app. Removing the app removes its local data, although copies may remain in backups you created or in a backup service enabled on your device until you remove them there.
 
 Advertising-data retention is controlled by Google under its policies and your Google/Android privacy settings.
 
@@ -47,4 +49,4 @@ If the app's data practices change, this policy and the relevant app-store priva
 
 ## Contact
 
-For privacy questions, email [ronnie.lazarus.dev@gmail.com](mailto:ronnie.lazarus.dev@gmail.com). Do not include vehicle records or other sensitive information unless it is necessary to answer your request.
+For privacy questions, email [ronnie.lazarus.dev@gmail.com](mailto:ronnie.lazarus.dev@gmail.com). Do not include vehicle records, documents, or other sensitive information unless it is necessary to answer your request.
