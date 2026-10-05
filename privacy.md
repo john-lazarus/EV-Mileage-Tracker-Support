@@ -1,18 +1,18 @@
 # Privacy Policy
 
-**Effective date: August 30, 2026**
+**Effective date: October 5, 2026**
 
 EV Mileage Tracker is a vehicle record-keeping app. The app does not require an account and does not sell personal data.
 
 ## Data stored by the app
 
-Vehicle names, charging sessions, odometer readings, preferences, calculated insights, and documents you add to the Documents wallet are stored in the app's private storage on your device. EV Mileage Tracker does not upload this app data to our servers and does not use a cloud database, analytics service, or crash-reporting service.
+Vehicle records, preferences, calculated insights, and imported Documents wallet files are stored in private app storage on your device. On iOS, when your iCloud account is available, the app also automatically attempts to save its latest full backup to your private iCloud database using Apple's CloudKit service. That backup contains vehicle records, portable preferences, and Documents wallet files. A failed iCloud backup does not prevent local saves. This backup supports reinstall recovery; it is not a history of every revision or a promise of synchronization between devices. No app account is required.
 
 ## Backups and transfers
 
-Backup export is optional and initiated by you. A full backup can include your vehicle records, preferences, and Documents wallet files. On Android, you can protect a full backup with a password before choosing where it is saved or shared. An unencrypted export contains readable app data and documents. The destination you select is governed by that service's privacy practices.
+On iOS and Android, you can protect a full backup export with a password before choosing where it is saved or shared. Password protection applies to that exported file. The automatic iOS iCloud backup is created separately and is not protected with your export password. An unencrypted export contains readable records and documents. Your chosen destination's privacy practices apply to the copy you save or share.
 
-If Android backup or device transfer is enabled, Android may copy eligible app data, including Documents wallet files, through the backup service configured on your device. This process is controlled by Android and the selected backup provider, not by our servers.
+If Android backup or device transfer is enabled, Android may copy eligible vehicle records, vehicle details, Documents wallet files, app preferences, and the document-lock preference through the backup service configured on your device. The current app rules include only the main record file, wallet manifest and files, app preferences, and the local document-security preferences. They exclude temporary sharing, staging, restore artifacts, and other preference files. Actual backup and recovery depend on your Android version, device, selected provider, settings, and available quota; they are not guaranteed. This process is controlled by Android and the selected backup provider.
 
 ## Advertising on Android
 
@@ -35,7 +35,7 @@ EV Mileage Tracker does not use your locally stored app data for cross-app or cr
 
 ## Retention and deletion
 
-You control the vehicle records and documents stored in the app. You can delete records and Documents wallet files in the app. Removing the app removes its local data, although copies may remain in backups you created or in a backup service enabled on your device until you remove them there.
+You control the vehicle records and documents stored in the app. You can delete records and Documents wallet files in the app. Removing the app deletes its local copy, but exported backups and copies stored by a device backup service or iCloud may remain. On an eligible iOS reinstall, the app can offer to restore the latest private iCloud backup. If you choose Start fresh and confirm deletion, the app attempts to delete that latest iCloud backup before continuing. Deleting local data or uninstalling the app alone does not establish that all backup copies have been deleted.
 
 Advertising-data retention is controlled by Google under its policies and your Google/Android privacy settings.
 
