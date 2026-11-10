@@ -45,7 +45,7 @@ Open each link with your new project selected and click **Enable**:
 3. Under **API restrictions** choose **Restrict key**, tick **Places API (New)** and **Routes API**, and click **Save**.
 4. Copy the key.
 
-The app shows the same values under **Settings → Trip planner → Your own Google key**. Using both an iPhone and an Android phone? Make one key for each.
+Using both an iPhone and an Android phone? Make one key for each.
 
 ## 4. Add it to the app
 
@@ -56,11 +56,11 @@ The app shows the same values under **Settings → Trip planner → Your own Goo
 - **Cap daily use:** in [Quotas](https://console.cloud.google.com/iam-admin/quotas), lower the per-day limit for Places API (New) and Routes API. Google stops requests at that number ([how](https://docs.cloud.google.com/apis/docs/capping-api-usage)).
 - **Budget alert:** in [Budgets & alerts](https://console.cloud.google.com/billing/budgets), create a budget so Google emails you if any charge starts ([how](https://docs.cloud.google.com/billing/docs/how-to/budgets)).
 
-Google's free monthly usage per billing account (India pricing in brackets): 10,000 (70,000) address suggestions and routes, 1,000 (7,000) charger searches, and 1,000 (7,000) charger photos. Google sets these and can change them: [pricing](https://developers.google.com/maps/billing-and-pricing/pricing) · [India pricing](https://developers.google.com/maps/billing-and-pricing/pricing-india).
+Google gives every billing account free usage each month and sets the amounts per country. See the current amounts for your country on Google's official pricing pages: [all countries](https://developers.google.com/maps/billing-and-pricing/pricing) · [India](https://developers.google.com/maps/billing-and-pricing/pricing-india).
 
 ## Privacy
 
-Your key stays on your phone (iPhone Keychain or Android Keystore) and is sent only to Google, never to our server. Remove it any time from the same screen.
+Your key stays on your phone, protected by the iPhone Keychain or Android Keystore. It is sent only to Google and nowhere else. Remove it any time from the same screen.
 
 ## If it doesn't work
 
