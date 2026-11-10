@@ -6,3 +6,4 @@ EV Mileage Tracker is a local-first iPhone and Android app for recording chargin
 
 - [Privacy Policy](privacy.md)
 - [Support](support.md)
+- [Use your own Google key](google-key.md)
