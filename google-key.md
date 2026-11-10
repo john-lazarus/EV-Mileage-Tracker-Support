@@ -56,7 +56,7 @@ Using both an iPhone and an Android phone? Make one key for each.
 - **Cap daily use:** in [Quotas](https://console.cloud.google.com/iam-admin/quotas), lower the per-day limit for Places API (New) and Routes API. Google stops requests at that number ([how](https://docs.cloud.google.com/apis/docs/capping-api-usage)).
 - **Budget alert:** in [Budgets & alerts](https://console.cloud.google.com/billing/budgets), create a budget so Google emails you if any charge starts ([how](https://docs.cloud.google.com/billing/docs/how-to/budgets)).
 
-Google gives every billing account free usage each month and sets the amounts per country. See the current amounts for your country on Google's official pricing pages: [all countries](https://developers.google.com/maps/billing-and-pricing/pricing) · [India](https://developers.google.com/maps/billing-and-pricing/pricing-india).
+Google gives every billing account free usage each month and sets the amounts per country. See the current amounts on [Google's official pricing page](https://developers.google.com/maps/billing-and-pricing/pricing).
 
 ## Privacy
 
